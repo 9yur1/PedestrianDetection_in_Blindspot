@@ -14,6 +14,6 @@ See [installation instructions.](https://detectron2.readthedocs.io/en/latest/tut
 ### License
 Detectron2 is released under the [Apache 2.0 license. (https://github.com/facebookresearch/detectron2/blob/main/LICENSE)
 
+## Architecture
 
-
---------------------
+<div align="center"><img src="./Image/flowchart.png" width="100%" height="100%"></div>

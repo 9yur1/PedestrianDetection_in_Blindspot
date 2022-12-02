@@ -3,6 +3,8 @@
 ### KHU 2022-2학기 캡스톤디자인2
 ----------------------
 ### About the Project
+
+
 최근 자율주행 기술이 빠르게 발전하였지만, 여전히 사각지대의 보행자에 대해 대처하는 방안에 대한
 연구는 부족하다. 기존에는 사각지대에 있는 보행자를 인식하고 운전자에게 사고가 발생할 가능성이 있는
 위험상황을 알려주기 위하여 다양한 센서를 활용하여 왔지만 비용이 많이 들거나 보행자 인식에 대한 정
@@ -13,8 +15,12 @@
 서 실제 자율주행 자동차에 널리 적용될 수 있는 유용한 기술로 판단된다.
 ------------------------
 ### Installation
+
+
 See [installation instructions.](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
 --------------------
 ### License
+
+
 Detectron2 is released under the [Apache 2.0 license.](https://github.com/facebookresearch/detectron2/blob/main/LICENSE)
 --------------------

@@ -16,7 +16,7 @@ Detectron2 is released under the [Apache 2.0 license. (https://github.com/facebo
 
 ## Architecture
 
-<div align="center"><img src="./Image/flowchart.png" width="100%" height="100%"></div>
+<div align="center"><img src="./Image/flowchart.png" width="85%" height="85%"></div>
 
 ## Results
 <div align="center"><img src="./Image/slow_kr.jpg" width="60%" height="60%"></div>

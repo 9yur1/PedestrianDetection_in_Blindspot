@@ -19,7 +19,7 @@ Detectron2 is released under the [Apache 2.0 license. (https://github.com/facebo
 <div align="center"><img src="./Image/flowchart.png" width="100%" height="100%"></div>
 
 ## Results
-<div align="center"><img src="./Image/slow_kr.png" width="100%" height="100%"></div>
+<div align="center"><img src="./Image/slow_kr.jpg" width="100%" height="100%"></div>
 GREEN bounding box means "Safe"
-<div align="center"><img src="./Image/run_kr.png" width="100%" height="100%"></div>
-RED bounging box means "Dangerous"
+<div align="center"><img src="./Image/run_kr.jpg" width="100%" height="100%"></div>
+RED bounding box means "Dangerous"

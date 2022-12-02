@@ -1,10 +1,11 @@
 ## 딥러닝을 활용한 영상기반의 보행자 검출 및 사각지대 위험상황 자동 알림 기술
 ### Automatic Notifiaction of Dangerous Situations in Blind Spots via Image-based Pedestrian Detection using Deep Learning
 ### KHU 2022-2학기 캡스톤디자인2
-----------------------
-## About the Project
-Transformer는 Self-attention mechanism의 장점을 통해 순차적 데이터에 대한 Long-term dependency를 모델링하는데 큰 이점을 얻는다. 그러나 복잡한 시간적 패턴에 가려져 Dependency의 정확한 추론이 어렵고 Quadratic한 복잡도를 가지므로 Long-term 환경에서는 예측이 어렵다. 이에 본 논문에서는 Time-series data에 적합한 구조로 더 정확한 학습과 높은 Computation efficiency를 위해 Autoformer model에 기반을 두고, 입력신호를 3가지 신호로 분리하는 Decomposition Block을 활용하고 AutoCorrelation block의 구조를 바꾼 새로운 모델인 “Tri-Former”을 설계한다.
 ------------------------
+### About the Project
+
+최근 자율주행 기술이 빠르게 발전하였지만, 여전히 사각지대의 보행자에 대해 대처하는 방안에 대한 연구는 부족하다. 기존에는 사각지대에 있는 보행자를 인식하고 운전자에게 사고가 발생할 가능성이 있는 위험상황을 알려주기 위하여 다양한 센서를 활용하여 왔지만 비용이 많이 들거나 보행자 인식에 대한 정확도의 문제점이 있다. 본 논문에서는 자율주행 환경에서 카메라에서 촬영되는 영상 정보만으로 사각지대의 보행자를 검출 및 움직임 상태를 파악하여, 사고가 발생할 가능성이 있는 상황으로 판단이 되면 운전자에게 자동으로 알려주는 기술을 소개한다. 제안하는 방법은 영상 정보만을 이용하기 때문에 비용적인면에서도 우수하며, 운전자에게 위험요소를 자동으로 알려주어 사고가 발생할 가능성을 줄인다는 측면에서 실제 자율주행 자동차에 널리 적용될 수 있는 유용한 기술로 판단된다.
+
 ### Installation
 
 See [installation instructions.](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)

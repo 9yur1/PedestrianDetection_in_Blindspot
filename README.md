@@ -9,7 +9,8 @@
 ### Installation
 
 See [installation instructions.](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
---------------------
+
+
 ### License
 Detectron2 is released under the [Apache 2.0 license. (https://github.com/facebookresearch/detectron2/blob/main/LICENSE)
 

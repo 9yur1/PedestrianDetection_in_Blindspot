@@ -45,7 +45,7 @@ Detectron2 is released under the [Apache 2.0 license. (https://github.com/facebo
 ## Reference
 1. https://github.com/facebookresearch/detectron2
 2. T.-Y. Lin, P. Dollar, et al.,“Feature pyramid networks for object detection,” in IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), 2017, pp. 2117–2125.
-
+3. A. Geiger, P. Lenz, and R. Urtasun, “Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite,”in Proc. Conf. Comput. Vis. Pattern Recognit. (CVPR), 2012, pp. 3354-3361.
 ## Contacts
 박규리
 kyuri0924@khu.ac.kr

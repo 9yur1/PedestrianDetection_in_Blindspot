@@ -10,12 +10,12 @@
 본 프로젝트에서는 카메라 영상 센서만을 활용하여 자율주행 환경에서 자동차 사각지대의 보행자 검출 및 자동으로 운전자에게 위험한 상황을 알려줄 수 있는 기술을 제안하고자 한다. 해당 기술은 상대적으로 비용이 저렴한 카메라 센서를 활용하는 장점이 있고, 영상 정보를 활용하여 보행자를 효과적으로 검출 및 자동으로 알림을 해준다는 면에서 실제 자율주행 자동차에 널리 적용이 될 수 있는 유용한 기술로 판단된다.
 
 ## Related Study
-1. FPN(Feature Pyramid Network)
-single-scale 이미지를 convolutional network에 입력하여 다양한 scale의 feature map을 출력하는 네트워크. 관심영역을 기반으로 다양한 크기의 객체에 집중.
+### 1. FPN(Feature Pyramid Network) <br>
+single-scale 이미지를 convolutional network에 입력하여 다양한 scale의 feature map을 출력하는 네트워크. <br> 관심영역을 기반으로 다양한 크기의 객체에 집중.
 
-2. RetinaNet
+### 2. RetinaNet <br>
 Focal Loss 성능을 구현하기 위해 개발된 네트워크로서 PRN에서 나온 Anchor box 개념과 SSD, FPN에서 나온 feature pyramids 개념을 이용함. 
-3. DETR
+### 3. DETR <br>
 DETR은 크게 3가지 요소로 구성되어 있다. Feature representation을 추출하기 위한 CNN backbone, transformer의 encoder-decoder 구조, Feed forward network(FFN)으로 이루어져 있음. Transformer의 특성상 학습하는데 굉장히 많은 시간을 요하게 되고 small object 탐지력이 약함.
 
 ## Installation

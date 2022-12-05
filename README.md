@@ -23,7 +23,7 @@ DETR은 크게 3가지 요소로 구성되어 있다. Feature representation을 
 See [installation instructions.](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
 
 ## Getting Started
-See [Getting Started with Detectron2](https://detectron2.readthedocs.io/en/latest/tutorials/getting_started.html), and the [Colab Notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5) to learn about basic usage.
+See [Getting Started with Detectron2](https://detectron2.readthedocs.io/en/latest/tutorials/getting_started.html), and the [Colab Notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5) to learn about basic usage. <br>
 Learn more at our [documentation](https://detectron2.readthedocs.io/en/latest/). And see [projects/](https://github.com/facebookresearch/detectron2/tree/main/projects) for some projects that are built on top of detectron2.
 
 ## License

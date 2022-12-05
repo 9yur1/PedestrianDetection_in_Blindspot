@@ -29,7 +29,7 @@ Learn more at our [documentation](https://detectron2.readthedocs.io/en/latest/).
 ## License
 Detectron2 is released under the [Apache 2.0 license. (https://github.com/facebookresearch/detectron2/blob/main/LICENSE)
 
-## Architecture
+## Flowchart
 
 <div align="center"><img src="./Image/flowchart.png" width="85%" height="85%"></div>
 
